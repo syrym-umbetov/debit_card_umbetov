@@ -114,7 +114,7 @@ export default function EditCard() {
           <Col md={3} className=''>
             <div className='d-grid gap-1 delete-card'>
               <Button variant='link' size='lg' onClick={handleDeleteAction}>
-                Delete Card
+                Удалить карту
               </Button>{' '}
             </div>
           </Col>
